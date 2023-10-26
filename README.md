@@ -1,4 +1,4 @@
-### Hello! Welcome, i'm Dafnne Fontes! 👋
+### Hello, welcome! I'm Dafnne Fontes! 👋
 
 - I’m currently working on front-end.
 - Pronouns: She/her
